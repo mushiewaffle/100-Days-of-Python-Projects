@@ -1,2 +1,0 @@
-KEVIN WU
-KWU30
