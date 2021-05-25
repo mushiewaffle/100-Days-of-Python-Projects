@@ -1,0 +1,14 @@
+{
+    "Facebook": {
+        "email": "kwu30@ucsc.edu",
+        "password": "blah"
+    },
+    "Google": {
+        "email": "kwu30@ucsc.edu",
+        "password": "Ah"
+    },
+    "Amazon": {
+        "email": "kwu30@ucsc.edu",
+        "password": "efd"
+    }
+}
